@@ -5,6 +5,7 @@
 개요
 - Unity를 이용하여 2D Platform 게임을 만들었다.
 - YouTube '골드메탈' 체널의 2D Platform를 기본 틀로 잡아 다른 기능들을 추가하였다.
+- YouTube '골드메탈' https://www.youtube.com/playlist?list=PLO-mt5Iu5TeZGR_y6mHmTWyo0RyGgO0N_
 
 게임 방식
 - 라운드는 총 5개의 라운드로 진행.
